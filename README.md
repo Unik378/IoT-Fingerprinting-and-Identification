@@ -1,3 +1,3 @@
 # IoT-Fingerprinting-and-Identification
 
-Currently working on implementation.
+Currently working on optimising the code.
